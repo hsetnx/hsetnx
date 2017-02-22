@@ -1,20 +1,20 @@
 ---
 title: about
-date: 2016-09-09 19:24:52
+date: 2017-02-22 18:53:00
 comments: false
 ---
 <div>
     <h3>联系信息：</h3>
     <div>
-        <div style=" width: 300px; float: left;border-right:white solid 1px">
+        <div style="float:left;border-right:white solid 1px;width:45%;">
             <p>
-                邮箱：x@jingyan.space <br/>
-                Q&nbsp;Q&nbsp;: 562872237 <br>
-                微博：@Elixir_敬岩 <br>
+                邮箱:x@jingyan.space <br/>
+                Q&nbsp;Q&nbsp;:562872237 <br>
+                微博:<a href="http://weibo.com/jingyan666">@Elixir_敬岩</a><br>
             </p>
         </div>
-        <div style=" width: 300px; float: right;" border-left:white solid 1px>
-            <img src="/img/about.png" class="img-topic2" style="height:140px"/>
+        <div style=" float:right;width:40%;">
+            <img src="/img/about.png" class="img-topic2" style="height:130px;"/>
         </div>
     </div>
 </div>
