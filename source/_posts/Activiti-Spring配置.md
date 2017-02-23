@@ -4,9 +4,11 @@ date: 2017-02-23 19:43:08
 tags: Spring,Activiti,BPMN2.0
 comments: true
 categories: Spring
+photos: 
+- /img/activiti.jpg
 ---
 
-## Activiti+Spring配置
+## Activiti+Spring配置(百度图片镇楼)
 
 ### 1.依赖的包（maven构建，其他Spring依赖的包不赘述了）
 
@@ -28,7 +30,7 @@ categories: Spring
     </dependency>
     
     
-### 2.activiti.cfg.xml配置Activiti引擎，以及实例化7大接口
+### 2.activiti.cfg.xml配置Activiti引擎，以及实例化7大接口（上图的接口）
 
 
 		<!-- jingyan -->
