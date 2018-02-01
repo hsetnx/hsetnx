@@ -71,13 +71,13 @@ theme: next-beta
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/jingyanBDTB/jingyanBDTB.github.io.git
+  repo: https://github.com/hsetnx/hsetnx.github.io.git
   branch: master
 duoshuo:
   enable: true
   shortname: jingyan197
 social:
-  GitHub: https://github.com/jingyanBDTB
+  GitHub: https://github.com/hsetnx
   Weibo: http://weibo.com/jingyan666
 # Favicon
 favicon: /favicon.ico
