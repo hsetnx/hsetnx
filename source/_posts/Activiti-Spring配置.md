@@ -1,9 +1,9 @@
 ---
 title: Activiti+Spring配置
 date: 2017-02-23 19:43:08
-tags: Spring,Activiti,BPMN2.0
+tags: spring
 comments: true
-categories: Spring
+categories: spring
 photos: 
 - /img/activiti.jpg
 ---

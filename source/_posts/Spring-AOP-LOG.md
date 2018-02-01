@@ -1,9 +1,9 @@
 ---
 title: Spring AOP-LOG
 date: 2018-02-01 19:25:40
-tags: Spring
+tags: spring
 comments: true
-categories: Spring AOP
+categories: spring
 ---
 ## Spring AOP-LOG
 AOP是Spring的核心思想,但是我们自己编程却很少用到这个思想，其实这个听起来很抽象的概念，如果弄清楚了，用起来还是很方便的。
