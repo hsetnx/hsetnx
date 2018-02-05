@@ -5,8 +5,8 @@
 # Site
 title: 悲欢自饮
 subtitle: 悲欢自饮
-description: blog | java | spring |springmvc
-author: J.Yan
+description: java | spring | 分布式 | 微服务 | 高并发
+author: JingYan
 language: zh-Hans
 email: 562872237@qq.com
 timezone:
@@ -73,9 +73,6 @@ deploy:
   type: git
   repo: https://github.com/hsetnx/hsetnx.github.io.git
   branch: master
-duoshuo:
-  enable: true
-  shortname: jingyan197
 social:
   GitHub: https://github.com/hsetnx
   Weibo: http://weibo.com/jingyan666

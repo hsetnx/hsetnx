@@ -65,22 +65,6 @@ auto_excerpt:
 # Note: this option is avialable only when the language is not `zh-Hans`
 use_font_lato: true
 
-# Make duoshuo show UA
-# user_id must NOT be null when admin_enable is true!
-# you can visit http://dev.duoshuo.com get duoshuo user id.
-duoshuo_info: # give up duoshuo
-  ua_enable: false
-  admin_enable: false
-  user_id: 0
-
-# share server
-# JiaThis share
-jiathis: false
-
-
-# baidu share
-baidu_share: false
-
 ## DO NOT EDIT THE FOLLOWING SETTINGS
 ## UNLESS YOU KNOW WHAT YOU ARE DOING
 
@@ -96,7 +80,8 @@ suprise:
   assist: false
 
 # 不蒜子统计
-busuanzi: false
+busuanzi: true
+baidu_analytics: true
 
 # Static files
 vendors: vendors
