@@ -1,9 +1,9 @@
 ---
 title: Activiti+Spring配置
 date: 2017-02-23 19:43:08
-tags: spring
+tags: Spring
 comments: true
-categories: spring
+categories: Spring
 photos: 
 - /img/activiti.jpg
 ---

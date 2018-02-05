@@ -1,9 +1,9 @@
 ---
 title: Spring事务隔离级别
 date: 2017-02-21 21:24:54
-tags: spring
+tags: Spring
 comments: true
-categories: spring
+categories: Spring
 ---
 ## Propagation （事务的传播属性）
 

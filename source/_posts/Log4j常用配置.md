@@ -1,9 +1,9 @@
 ---
 title: Log4j常用配置
 date: 2017-02-23 19:01:46
-tags: spring
+tags: Spring
 comments: true
-categories: spring
+categories: Spring
 ---
 ## Log4j常用配置
 
