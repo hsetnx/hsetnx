@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 悲欢自饮
-subtitle: 悲欢自饮
+title: 悲欢自饮_
+subtitle: JingYan
 description: java | spring | 分布式 | 微服务 | 高并发
-author: JingYan
+author: 悲欢自饮
 language: zh-Hans
 email: 562872237@qq.com
 timezone:
@@ -15,9 +15,11 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://jingyan.space
 root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
-
+# permalink: :year/:month/:day/:title/
+# permalink_defaults:
+# Favicon
+# favicon: /img/default_avatar.png
+avatar: /img/default_avatar.png
 # Directory
 source_dir: source
 public_dir: public
@@ -65,7 +67,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next-beta
+theme: swing
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
@@ -76,9 +78,7 @@ deploy:
 social:
   GitHub: https://github.com/hsetnx
   Weibo: http://weibo.com/jingyan666
-# Favicon
-favicon: /favicon.ico
-avatar: /images/default_avatar.png
+
 
 # Code highlight theme
 # available: normal | night | night eighties | night blue | night bright

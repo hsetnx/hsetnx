@@ -1,10 +1,16 @@
 ---
 title: Log4j常用配置
 date: 2017-02-23 19:01:46
-tags: Spring
-comments: true
+description: Log4j常用配置
 categories: Spring
+tags: Spring
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
+
 ## Log4j常用配置
 
 

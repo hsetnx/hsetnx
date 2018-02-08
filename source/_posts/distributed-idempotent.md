@@ -1,10 +1,14 @@
 ---
-layout: w
 title: 简单的分布式幂等注解的设计与实现
 date: 2018-02-02 14:44:09
-tags: [Spring,分布式,幂等]
-comments: true
-categories: 分布式
+description: 简单的分布式幂等注解的设计与实现
+categories: Spring
+tags: Spring
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
 
 ## 简单的分布式幂等注解的设计与实现

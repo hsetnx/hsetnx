@@ -1,10 +1,16 @@
 ---
 title: Spring事务隔离级别
 date: 2017-02-21 21:24:54
-tags: Spring
-comments: true
+description: 事务的传播属性
 categories: Spring
+tags: Spring
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
+
 ## Propagation （事务的传播属性）
 
 Propagation ：key属性确定代理应该给哪个方法增加事务行为。这样的属性最重要的部份是传播行为。

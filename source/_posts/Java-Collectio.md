@@ -1,12 +1,16 @@
 ---
 title: Java_Collection
 date: 2016-09-11 18:35:17
+description: JAVA 集合类
+categories: java
 tags: java
-comments: true
-categories: java基础
-photos:
-- /img/java_collection.png
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
+
 ## JAVA 集合类
 ### 目录[-]
 

@@ -1,15 +1,15 @@
 ---
-title: git常用命令
-date: 2016-09-09 15:16:35
+title: Git 基本命令
+date: 2015-12-25 18:29:00
+description: 日常git的基本操作，包括查看、创建、拉去、推送
+categories: git
 tags: git
-comments: true
-categories: 常用小知识
-photos: 
-- /img/bit_baner.png
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
-
-## Git常用简单命令
-
 *******************************************************
 	git branch                   查看本地分支
 	git branch -r                查看远程分支
@@ -19,17 +19,17 @@ photos:
 	git checkout [新分支名]       切换到新分支
 	git push origin [新分支名]    推送新分支到服务器
 *******************************************************
-	git branch -r                验证查看是否推送成功
+	git branch -r     # 验证查看是否推送成功
 
 	git add <file>    # 将工作文件修改提交到本地暂存区
 
 	git add .         # 将所有修改过的工作文件提交暂存区
 
-	git status        #查看本地暂存文件（没有提交的文件）
+	git status        # 查看本地暂存文件（没有提交的文件）
 
-	git commit        #把文件从暂存区提交到branch
+	git commit        # 把文件从暂存区提交到branch
 
-	git commit –m '你的注释'  #提交你的修改
+	git commit –m     # 带注释
 
 	git pull          # 抓取远程仓库所有分支更新并合并到本地
 *******************************************************
@@ -60,9 +60,6 @@ photos:
 	 5、删除分支
 	 执行git branch -d <分支名>
 	 如果该分支没有合并到主分支会报错，可以用以下命令强制删除git branch -D <分支名>
-	 
-
-More info: [Github官网命令解释](https://github.com/Kunena/Kunena-2.0/wiki/Create-a-new-branch-with-git-and-manage-branches)
 
 
 

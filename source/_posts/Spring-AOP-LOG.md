@@ -1,10 +1,16 @@
 ---
 title: Spring AOP-LOG
 date: 2018-02-01 19:25:40
-tags: Spring
-comments: true
+description: AOP是Spring的核心思想,但是我们自己编程却很少用到这个思想，其实这个听起来很抽象的概念，如果弄清楚了，用起来还是很方便的。
 categories: Spring
+tags: Spring
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
+
 ## Spring AOP-LOG
 AOP是Spring的核心思想,但是我们自己编程却很少用到这个思想，其实这个听起来很抽象的概念，如果弄清楚了，用起来还是很方便的。
 下面写个例子,可以体会下AOP做日志打印的便利之处。

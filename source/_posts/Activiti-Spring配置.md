@@ -1,11 +1,14 @@
 ---
 title: Activiti+Spring配置
 date: 2017-02-23 19:43:08
-tags: Spring
-comments: true
+description: Activiti+Spring构建工作流平台
 categories: Spring
-photos: 
-- /img/activiti.jpg
+tags: Spring
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
 
 ## Activiti+Spring配置(百度图片镇楼)

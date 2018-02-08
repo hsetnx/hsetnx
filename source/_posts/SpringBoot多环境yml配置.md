@@ -1,11 +1,16 @@
 ---
-layout: w
 title: SpringBoot多环境yml配置
 date: 2018-02-05 11:48:29
-tags: [SpringBoot,yml]
-comments: true
+description: SpringBoot多环境yml配置
 categories: Spring
+tags: Spring
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
+
 ## SpringBoot多环境yml配置
 
 通常情况下，我们的Spring boot项目都会涉及多个环境的部署，例如最基本的开发、测试、预生产、生产。这种情况下，我们依赖的一些外部组件的配置往往是不同的，例如DB、接口、ZK等，这样就需要我们根据不同环境选择不同的配置文件。在springboot之前，我们通常都是通过pom配置多个profile，然后打包时动态替换配置文件的参数，但是，在有了spring boot之后，还有一种更方便办法，就是在项目启动时，根据环境动态选择不同的配置文件。

@@ -1,9 +1,16 @@
 ---
 title: HashSet
 date: 2017-02-23 18:34:21
+description: java基础
+categories: java
 tags: java
-categories: java基础
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
+
 ##  HashSet 的实现
 
 对于 HashSet 而言，它是基于 HashMap 实现的，HashSet 底层采用 HashMap 来保存所有

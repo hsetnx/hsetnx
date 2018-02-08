@@ -1,10 +1,14 @@
 ---
-layout: w
 title: Hexo换电脑后如何继续维护博客
 date: 2018-02-05 12:21:29
-tags: [Hexo,nodejs,github博客]
-comments: true
-categories: Hexo
+description: Hexo换电脑后如何继续维护博客
+categories: nodejs
+tags: Hexo
+toc: true
+author: Yan
+comments: 
+original: 
+permalink: 
 ---
 
 ## 更换PC后如何继续维护GitHub的博客
