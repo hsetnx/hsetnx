@@ -5,10 +5,10 @@
 ## Tags Cloud Page: `hexo new page tags`
 menu:
   home: / 
-  categories: /categories
+#  categories: /categories
   archives: /archives
   tags: /tags
-  about: /about
+#  about: /about
 
 # Link to your avatar | 填写头像地址
 avatar: /img/about.png
