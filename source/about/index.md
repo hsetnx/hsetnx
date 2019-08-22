@@ -1,13 +1,10 @@
 ---
-title: About
+title: HSetNx
 date: 2019-08-21 17:03:21
+typora-root-url: ..
 ---
+<ul class="list-inline">
+<li><a href="https://weibo.com/jingyan666" target＝_blank><img src="/img/wb.png" width="50" align=center /></a></li>
 
-  <div class="widget-wrap"> 
-    <h3 class="widget-title">HSetNx</h3> 
-    <div class="widget"> 
-      邮箱：https://weibo.com/jingyan666<br/>
-      GitHub：https://github.com/hsetnx<br/>
-    </div> 
-  </div> 
-
+<li><a href="https://github.com/hsetnx" target＝_blank><img src="/img/git.png" width="50" align=center /></a></li>
+</ul>
